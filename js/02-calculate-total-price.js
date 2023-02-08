@@ -29,19 +29,3 @@
 // console.log(`Общая сумма покупок ${r1}`); // 6
 // console.log(calculateTotalPrice([5, 10, 15, 20])); // 50
 // console.log(calculateTotalPrice([100, 200, 300])); // 600
-
-function getExtremeElements(array) {
-  // Change code below this line
-  //   const resultArray = array[0];
-  //   console.log('HI');
-  console.log(array);
-
-  //   return resultArray;
-  // Change code above this line
-  return rrr[(array[0], array[array.length - 1])];
-}
-
-// getExtremeElements([1, 2, 3, 4]);
-// console.log(resultArray);
-// getExtremeElements([1, 2, 3, 4]);
-console.log(rrr);
